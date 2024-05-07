@@ -1,0 +1,49 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# IDE - VS Code, Visual Studio, Rider
+.vs/
+.vscode/
+.idea/
+
+# Tools
+_ReSharper*/
+*.testsettings
+*.vsconfig
+
+# NuGet
+packages/
+!packages/build/
+*.nupkg
+*.snupkg
+.nuget/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Others
+*.log
+*.log.*
+*.blg
+*.bak
+*.cache
+*.tmp
+*.temp
